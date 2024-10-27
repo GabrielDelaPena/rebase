@@ -6,4 +6,5 @@ public class Merge {
   private String email;
   private String password;
   private String gender;
+  private String status;
 }
