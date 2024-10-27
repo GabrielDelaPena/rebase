@@ -7,4 +7,5 @@ public class Merge {
   private String password;
   private String gender;
   private String status;
+  private String birthPlace; // added in logout branch.
 }
